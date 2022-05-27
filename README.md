@@ -1,0 +1,2 @@
+# Fuzzy_Logic_functions
+Fuzzification_ Defuzzification
